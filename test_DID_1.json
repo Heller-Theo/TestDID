@@ -22,7 +22,7 @@
           "test_date": {
             "description": "schema desc",
             "title": "This is the PQP date",
-            "type": "date-time"
+            "type": "string"
           },
           "id": {
             "description": "Stores the DID of the subject that owns the credential",

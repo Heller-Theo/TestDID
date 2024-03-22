@@ -14,10 +14,6 @@
                 "test_string": {
                    "@id": "test-vocab:test_string",
                    "@type": "xsd:string"
-                },
-                "test_date": {
-                   "@id": "test-vocab:test_date",
-                   "@type": "xsd:dateTime"
                 }
              },
              "@id": "urn:uuid:6585bbfe-e479-4d8a-aad9-4c7088c72b35"

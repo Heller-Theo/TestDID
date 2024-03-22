@@ -1,7 +1,7 @@
 {
     "$metadata": {
       "uris": {
-        "jsonLdContext": "none"
+        "jsonLdContext": "ipfs://QmdH1Vu79p2NcZLFbHxzJnLuUHJiMZnBeT7SNpLaqK7k9X"
       },
       "type": "CredentialPQP",
       "version": "0.01"

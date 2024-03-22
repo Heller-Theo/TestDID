@@ -1,7 +1,7 @@
 {
     "$metadata": {
       "uris": {
-        "jsonLdContext": "ipfs://QmdH1Vu79p2NcZLFbHxzJnLuUHJiMZnBeT7SNpLaqK7k9X"
+        "jsonLdContext": "none"
       },
       "type": "POAP01",
       "version": "0.01"

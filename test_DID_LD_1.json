@@ -1,0 +1,27 @@
+{
+    "@context": [
+       {
+          "@protected": true,
+          "@version": 1.1,
+          "id": "@id",
+          "type": "@type",
+          "CredentialPQP": {
+             "@context": {
+                "@propagate": true,
+                "@protected": true,
+                "test-vocab": "urn:uuid:e9b5e5c4-e56c-4f60-b85b-2974378b0e25#",
+                "xsd": "http://www.w3.org/2001/XMLSchema#",
+                "test_string": {
+                   "@id": "test-vocab:test_string",
+                   "@type": "xsd:string"
+                },
+                "test_date": {
+                   "@id": "test-vocab:test_date",
+                   "@type": "xsd:dateTime"
+                }
+             },
+             "@id": "urn:uuid:6585bbfe-e479-4d8a-aad9-4c7088c72b35"
+          }
+       }
+    ]
+}

@@ -1,7 +1,7 @@
 {
     "$metadata": {
       "uris": {
-        "jsonLdContext": "ipfs://QmdH1Vu79p2NcZLFbHxzJnLuUHJiMZnBeT7SNpLaqK7k9X"
+        "jsonLdContext": "https://raw.githubusercontent.com/Heller-Theo/TestDID/main/test_DID_LD_1.json"
       },
       "type": "CredentialPQP",
       "version": "0.01"
@@ -19,6 +19,11 @@
             "title": "This is the PQP string",
             "type": "string"
           },
+          "test_date": {
+            "description": "schema desc",
+            "title": "This is the PQP date",
+            "type": "date-time"
+          },
           "id": {
             "description": "Stores the DID of the subject that owns the credential",
             "title": "Credential subject ID",
@@ -27,7 +32,8 @@
           }
         },
         "required": [
-          "test_string"
+          "test_string",
+          "test_date"
         ],
         "type": "object"
       },
